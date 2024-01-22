@@ -1,0 +1,17 @@
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\bin\Debug\net7.0-windows\Prueva 2.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\bin\Debug\net7.0-windows\Prueva 2.deps.json
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\bin\Debug\net7.0-windows\Prueva 2.runtimeconfig.json
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\bin\Debug\net7.0-windows\Prueva 2.dll
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\bin\Debug\net7.0-windows\Prueva 2.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva_2.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.AssemblyInfoInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.AssemblyInfo.cs
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.dll
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\refint\Prueva 2.dll
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\Prueva 2.genruntimeconfig.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prueva 2\Prueva 2\obj\Debug\net7.0-windows\ref\Prueva 2.dll
