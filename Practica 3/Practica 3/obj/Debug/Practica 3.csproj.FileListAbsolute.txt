@@ -1,0 +1,20 @@
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\bin\Debug\Practica 3.exe.config
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\bin\Debug\Practica 3.exe
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\bin\Debug\Practica 3.pdb
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.AssemblyReference.cache
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica_3.Form1.resources
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica_3.Properties.Resources.resources
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.GenerateResource.cache
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.exe
+D:\Proyecto\C#\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.pdb
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\bin\Debug\Practica 3.exe.config
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\bin\Debug\Practica 3.exe
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\bin\Debug\Practica 3.pdb
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.AssemblyReference.cache
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica_3.Form1.resources
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica_3.Properties.Resources.resources
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.GenerateResource.cache
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.exe
+D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.pdb
