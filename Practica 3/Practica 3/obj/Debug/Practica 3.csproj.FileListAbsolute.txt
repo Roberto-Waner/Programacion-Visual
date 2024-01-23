@@ -18,3 +18,14 @@ D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debu
 D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
 D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.exe
 D:\Proyecto\Programacion Visual\ProyectoC#-Visual\Practica 3\Practica 3\obj\Debug\Practica 3.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\bin\Debug\Practica 3.exe.config
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\bin\Debug\Practica 3.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\bin\Debug\Practica 3.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica_3.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica_3.Properties.Resources.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica 3.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica 3\Practica 3\obj\Debug\Practica 3.pdb
