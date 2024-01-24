@@ -1,0 +1,6 @@
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Properties.Resources.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.CoreCompileInputs.cache
