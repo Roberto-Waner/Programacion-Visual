@@ -49,57 +49,53 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 19);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Location = new System.Drawing.Point(21, 23);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(106, 13);
+            this.label1.Size = new System.Drawing.Size(136, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nombre de Empresa:";
             // 
             // txt_Empresa
             // 
-            this.txt_Empresa.Location = new System.Drawing.Point(123, 16);
-            this.txt_Empresa.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_Empresa.Location = new System.Drawing.Point(164, 20);
+            this.txt_Empresa.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_Empresa.Name = "txt_Empresa";
-            this.txt_Empresa.Size = new System.Drawing.Size(302, 20);
+            this.txt_Empresa.Size = new System.Drawing.Size(401, 22);
             this.txt_Empresa.TabIndex = 1;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(16, 56);
-            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Location = new System.Drawing.Point(21, 69);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(98, 13);
+            this.label2.Size = new System.Drawing.Size(122, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Monto prestamo ($)";
             // 
             // txt_Tiempo
             // 
-            this.txt_Tiempo.Location = new System.Drawing.Point(337, 53);
-            this.txt_Tiempo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_Tiempo.Location = new System.Drawing.Point(449, 65);
+            this.txt_Tiempo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_Tiempo.Name = "txt_Tiempo";
-            this.txt_Tiempo.Size = new System.Drawing.Size(89, 20);
+            this.txt_Tiempo.Size = new System.Drawing.Size(117, 22);
             this.txt_Tiempo.TabIndex = 5;
             this.txt_Tiempo.Text = "2";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(257, 58);
-            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Location = new System.Drawing.Point(343, 71);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(74, 13);
+            this.label3.Size = new System.Drawing.Size(95, 16);
             this.label3.TabIndex = 4;
             this.label3.Text = "Tiempo (años)";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(16, 119);
-            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Location = new System.Drawing.Point(21, 146);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(69, 13);
+            this.label4.Size = new System.Drawing.Size(85, 16);
             this.label4.TabIndex = 6;
             this.label4.Text = "Tasa Interes:";
             // 
@@ -107,10 +103,10 @@
             // 
             this.rdb_Interes1.AutoSize = true;
             this.rdb_Interes1.Checked = true;
-            this.rdb_Interes1.Location = new System.Drawing.Point(19, 171);
-            this.rdb_Interes1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rdb_Interes1.Location = new System.Drawing.Point(25, 210);
+            this.rdb_Interes1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdb_Interes1.Name = "rdb_Interes1";
-            this.rdb_Interes1.Size = new System.Drawing.Size(48, 17);
+            this.rdb_Interes1.Size = new System.Drawing.Size(57, 20);
             this.rdb_Interes1.TabIndex = 7;
             this.rdb_Interes1.TabStop = true;
             this.rdb_Interes1.Text = "12 %";
@@ -120,10 +116,10 @@
             // rdb_Interes2
             // 
             this.rdb_Interes2.AutoSize = true;
-            this.rdb_Interes2.Location = new System.Drawing.Point(117, 171);
-            this.rdb_Interes2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rdb_Interes2.Location = new System.Drawing.Point(156, 210);
+            this.rdb_Interes2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdb_Interes2.Name = "rdb_Interes2";
-            this.rdb_Interes2.Size = new System.Drawing.Size(57, 17);
+            this.rdb_Interes2.Size = new System.Drawing.Size(67, 20);
             this.rdb_Interes2.TabIndex = 8;
             this.rdb_Interes2.TabStop = true;
             this.rdb_Interes2.Text = "23.5 %";
@@ -133,10 +129,10 @@
             // rdb_Interes3
             // 
             this.rdb_Interes3.AutoSize = true;
-            this.rdb_Interes3.Location = new System.Drawing.Point(220, 171);
-            this.rdb_Interes3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.rdb_Interes3.Location = new System.Drawing.Point(293, 210);
+            this.rdb_Interes3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rdb_Interes3.Name = "rdb_Interes3";
-            this.rdb_Interes3.Size = new System.Drawing.Size(88, 17);
+            this.rdb_Interes3.Size = new System.Drawing.Size(106, 20);
             this.rdb_Interes3.TabIndex = 9;
             this.rdb_Interes3.TabStop = true;
             this.rdb_Interes3.Text = "Otro, indique:";
@@ -146,10 +142,10 @@
             // txt_TasaInterEX
             // 
             this.txt_TasaInterEX.Enabled = false;
-            this.txt_TasaInterEX.Location = new System.Drawing.Point(310, 170);
-            this.txt_TasaInterEX.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt_TasaInterEX.Location = new System.Drawing.Point(413, 209);
+            this.txt_TasaInterEX.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_TasaInterEX.Name = "txt_TasaInterEX";
-            this.txt_TasaInterEX.Size = new System.Drawing.Size(116, 20);
+            this.txt_TasaInterEX.Size = new System.Drawing.Size(153, 22);
             this.txt_TasaInterEX.TabIndex = 10;
             this.txt_TasaInterEX.Text = "0";
             // 
@@ -157,18 +153,19 @@
             // 
             this.lst_Resul.Enabled = false;
             this.lst_Resul.FormattingEnabled = true;
-            this.lst_Resul.Location = new System.Drawing.Point(19, 215);
-            this.lst_Resul.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.lst_Resul.ItemHeight = 16;
+            this.lst_Resul.Location = new System.Drawing.Point(25, 265);
+            this.lst_Resul.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.lst_Resul.Name = "lst_Resul";
-            this.lst_Resul.Size = new System.Drawing.Size(414, 108);
+            this.lst_Resul.Size = new System.Drawing.Size(551, 132);
             this.lst_Resul.TabIndex = 11;
             // 
             // btn_Analisis
             // 
-            this.btn_Analisis.Location = new System.Drawing.Point(20, 347);
-            this.btn_Analisis.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_Analisis.Location = new System.Drawing.Point(27, 427);
+            this.btn_Analisis.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_Analisis.Name = "btn_Analisis";
-            this.btn_Analisis.Size = new System.Drawing.Size(82, 41);
+            this.btn_Analisis.Size = new System.Drawing.Size(109, 50);
             this.btn_Analisis.TabIndex = 12;
             this.btn_Analisis.Text = "Análisis \r\nFinanciero";
             this.btn_Analisis.UseVisualStyleBackColor = true;
@@ -176,20 +173,20 @@
             // 
             // btn_general
             // 
-            this.btn_general.Location = new System.Drawing.Point(130, 347);
-            this.btn_general.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_general.Location = new System.Drawing.Point(173, 427);
+            this.btn_general.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_general.Name = "btn_general";
-            this.btn_general.Size = new System.Drawing.Size(82, 41);
+            this.btn_general.Size = new System.Drawing.Size(109, 50);
             this.btn_general.TabIndex = 13;
             this.btn_general.Text = "Generar Amortizacion";
             this.btn_general.UseVisualStyleBackColor = true;
             // 
             // btn_Fin
             // 
-            this.btn_Fin.Location = new System.Drawing.Point(351, 347);
-            this.btn_Fin.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btn_Fin.Location = new System.Drawing.Point(468, 427);
+            this.btn_Fin.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_Fin.Name = "btn_Fin";
-            this.btn_Fin.Size = new System.Drawing.Size(82, 41);
+            this.btn_Fin.Size = new System.Drawing.Size(109, 50);
             this.btn_Fin.TabIndex = 14;
             this.btn_Fin.Text = "Terminar Programa";
             this.btn_Fin.UseVisualStyleBackColor = true;
@@ -197,27 +194,27 @@
             // 
             // btn_mostrar
             // 
-            this.btn_mostrar.Location = new System.Drawing.Point(240, 347);
-            this.btn_mostrar.Margin = new System.Windows.Forms.Padding(2);
+            this.btn_mostrar.Location = new System.Drawing.Point(320, 427);
+            this.btn_mostrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btn_mostrar.Name = "btn_mostrar";
-            this.btn_mostrar.Size = new System.Drawing.Size(91, 41);
+            this.btn_mostrar.Size = new System.Drawing.Size(121, 50);
             this.btn_mostrar.TabIndex = 15;
             this.btn_mostrar.Text = "Mostrar Tabla \r\nAmortizada";
             this.btn_mostrar.UseVisualStyleBackColor = true;
             // 
             // txt_Monto
             // 
-            this.txt_Monto.Location = new System.Drawing.Point(118, 53);
-            this.txt_Monto.Margin = new System.Windows.Forms.Padding(2);
+            this.txt_Monto.Location = new System.Drawing.Point(157, 65);
+            this.txt_Monto.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txt_Monto.Name = "txt_Monto";
-            this.txt_Monto.Size = new System.Drawing.Size(94, 20);
+            this.txt_Monto.Size = new System.Drawing.Size(124, 22);
             this.txt_Monto.TabIndex = 3;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(453, 423);
+            this.ClientSize = new System.Drawing.Size(604, 521);
             this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_Fin);
             this.Controls.Add(this.btn_general);
@@ -234,9 +231,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txt_Empresa);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "Form1";
+//            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

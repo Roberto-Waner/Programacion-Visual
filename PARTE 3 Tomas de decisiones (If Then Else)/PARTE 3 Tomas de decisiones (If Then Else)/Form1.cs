@@ -109,13 +109,22 @@ namespace PARTE_3_Tomas_de_decisiones__If_Then_Else_
                         tasal = Convert.ToDouble(txt_TasaInterEX.Text) / 100;
                     }
                 }
+                else
+                {
+                    MessageBox.Show("Aun no ha indicado una tasa interes", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    txt_TasaInterEX.Focus();
+                    return;
+                }
             }
-            else
-            {
-                MessageBox.Show("Aun no ha indicado una tasa interes", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                txt_TasaInterEX.Focus();
-                return;
-            }
+            MontoFin = (1 + tasal);
+            MontoFin = MontoInic * (Math.Pow(Convert.ToDouble(MontoFin), Tiempo));
+            tasal *= 100;
+
+            //Muestra la respuesta Monto a pagar
+            lst_Resul.Items.Clear();
+            lst_Resul.Items.Add("Empresa: " + txt_Empresa.Text);
+            lst_Resul.Items.Add("Monto: $" + MontoInic + ", Tasa anual: " + tasal);
+            lst_Resul.Items.Add("Monto a pagar: $" + MontoFin);
         }
     }
 }
