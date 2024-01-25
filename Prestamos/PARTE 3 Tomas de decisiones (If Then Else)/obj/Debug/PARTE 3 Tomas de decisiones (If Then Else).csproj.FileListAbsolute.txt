@@ -1,0 +1,41 @@
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Properties.Resources.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.CoreCompileInputs.cache
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe.config
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).pdb
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.AssemblyReference.cache
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Form1.resources
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Properties.Resources.resources
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Tamortizacion.resources
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.GenerateResource.cache
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.CoreCompileInputs.cache
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe
+D:\Proyecto\Programacion Visual\PARTE 3 Tomas de decisiones (If Then Else)\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe.config
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Properties.Resources.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Tamortizacion.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Properties.Resources.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE_3_Tomas_de_decisiones__If_Then_Else_.Tamortizacion.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\obj\Debug\PARTE 3 Tomas de decisiones (If Then Else).pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe.config
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Prestamos\PARTE 3 Tomas de decisiones (If Then Else)\bin\Debug\PARTE 3 Tomas de decisiones (If Then Else).pdb
