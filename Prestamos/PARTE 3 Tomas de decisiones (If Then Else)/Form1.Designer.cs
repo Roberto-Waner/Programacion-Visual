@@ -42,7 +42,6 @@
             this.btn_Analisis = new System.Windows.Forms.Button();
             this.btn_general = new System.Windows.Forms.Button();
             this.btn_Fin = new System.Windows.Forms.Button();
-            this.btn_mostrar = new System.Windows.Forms.Button();
             this.txt_Monto = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
@@ -165,10 +164,10 @@
             // 
             // btn_Analisis
             // 
-            this.btn_Analisis.Location = new System.Drawing.Point(20, 347);
+            this.btn_Analisis.Location = new System.Drawing.Point(19, 347);
             this.btn_Analisis.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Analisis.Name = "btn_Analisis";
-            this.btn_Analisis.Size = new System.Drawing.Size(82, 41);
+            this.btn_Analisis.Size = new System.Drawing.Size(127, 41);
             this.btn_Analisis.TabIndex = 12;
             this.btn_Analisis.Text = "Análisis \r\nFinanciero";
             this.btn_Analisis.UseVisualStyleBackColor = true;
@@ -176,10 +175,10 @@
             // 
             // btn_general
             // 
-            this.btn_general.Location = new System.Drawing.Point(130, 347);
+            this.btn_general.Location = new System.Drawing.Point(164, 347);
             this.btn_general.Margin = new System.Windows.Forms.Padding(2);
             this.btn_general.Name = "btn_general";
-            this.btn_general.Size = new System.Drawing.Size(82, 41);
+            this.btn_general.Size = new System.Drawing.Size(127, 41);
             this.btn_general.TabIndex = 13;
             this.btn_general.Text = "Generar Amortizacion";
             this.btn_general.UseVisualStyleBackColor = true;
@@ -187,25 +186,14 @@
             // 
             // btn_Fin
             // 
-            this.btn_Fin.Location = new System.Drawing.Point(351, 347);
+            this.btn_Fin.Location = new System.Drawing.Point(306, 347);
             this.btn_Fin.Margin = new System.Windows.Forms.Padding(2);
             this.btn_Fin.Name = "btn_Fin";
-            this.btn_Fin.Size = new System.Drawing.Size(82, 41);
+            this.btn_Fin.Size = new System.Drawing.Size(127, 41);
             this.btn_Fin.TabIndex = 14;
             this.btn_Fin.Text = "Terminar Programa";
             this.btn_Fin.UseVisualStyleBackColor = true;
             this.btn_Fin.Click += new System.EventHandler(this.btn_Fin_Click);
-            // 
-            // btn_mostrar
-            // 
-            this.btn_mostrar.Location = new System.Drawing.Point(240, 347);
-            this.btn_mostrar.Margin = new System.Windows.Forms.Padding(2);
-            this.btn_mostrar.Name = "btn_mostrar";
-            this.btn_mostrar.Size = new System.Drawing.Size(91, 41);
-            this.btn_mostrar.TabIndex = 15;
-            this.btn_mostrar.Text = "Mostrar Tabla \r\nAmortizada";
-            this.btn_mostrar.UseVisualStyleBackColor = true;
-            this.btn_mostrar.Click += new System.EventHandler(this.btn_mostrar_Click);
             // 
             // txt_Monto
             // 
@@ -220,7 +208,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(453, 423);
-            this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_Fin);
             this.Controls.Add(this.btn_general);
             this.Controls.Add(this.btn_Analisis);
@@ -260,7 +247,6 @@
         private System.Windows.Forms.Button btn_Analisis;
         private System.Windows.Forms.Button btn_general;
         private System.Windows.Forms.Button btn_Fin;
-        private System.Windows.Forms.Button btn_mostrar;
         private System.Windows.Forms.TextBox txt_Monto;
     }
 }

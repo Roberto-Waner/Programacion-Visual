@@ -16,7 +16,7 @@ namespace PARTE_3_Tomas_de_decisiones__If_Then_Else_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Tamortizacion());
+            Application.Run(new Form1());
         }
     }
 }

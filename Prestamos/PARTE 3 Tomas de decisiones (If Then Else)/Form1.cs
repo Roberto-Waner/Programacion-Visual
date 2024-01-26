@@ -18,6 +18,7 @@ namespace PARTE_3_Tomas_de_decisiones__If_Then_Else_
         }
 
         private double tasal;
+        int Tiempo;
 
         public static Boolean IsNumeric(string valor)
         {
@@ -58,8 +59,7 @@ namespace PARTE_3_Tomas_de_decisiones__If_Then_Else_
         {
             string Nom_Empresa;
             double MontoInic = 0, MontoFin = 0;
-            int Tiempo;
-
+            
             Nom_Empresa = txt_Empresa.Text;
             Nom_Empresa = Nom_Empresa.Trim();
 
@@ -129,13 +129,12 @@ namespace PARTE_3_Tomas_de_decisiones__If_Then_Else_
 
         private void btn_general_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void btn_mostrar_Click(object sender, EventArgs e)
-        {
             Tamortizacion amortizacion = new Tamortizacion();
-            amortizacion.ShowDialog();
+            AddOwnedForm(amortizacion);
+            amortizacion.txt_monto_prest.Text = txt_Monto.Text;
+            amortizacion.txt_tasa_interes.Text = (tasal / 100).ToString();
+            amortizacion.txt_periodo_anual.Text = Tiempo.ToString();
+            amortizacion.Show();
         }
     }
 }

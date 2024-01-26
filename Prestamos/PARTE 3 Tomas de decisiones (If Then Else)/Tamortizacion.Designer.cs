@@ -101,6 +101,7 @@
             // 
             // txt_periodo_anual
             // 
+            this.txt_periodo_anual.Enabled = false;
             this.txt_periodo_anual.Location = new System.Drawing.Point(117, 80);
             this.txt_periodo_anual.Name = "txt_periodo_anual";
             this.txt_periodo_anual.Size = new System.Drawing.Size(100, 20);
@@ -108,6 +109,7 @@
             // 
             // txt_tasa_interes
             // 
+            this.txt_tasa_interes.Enabled = false;
             this.txt_tasa_interes.Location = new System.Drawing.Point(117, 51);
             this.txt_tasa_interes.Name = "txt_tasa_interes";
             this.txt_tasa_interes.Size = new System.Drawing.Size(100, 20);
@@ -115,6 +117,7 @@
             // 
             // txt_monto_prest
             // 
+            this.txt_monto_prest.Enabled = false;
             this.txt_monto_prest.Location = new System.Drawing.Point(117, 22);
             this.txt_monto_prest.Name = "txt_monto_prest";
             this.txt_monto_prest.Size = new System.Drawing.Size(100, 20);
@@ -139,6 +142,7 @@
             // 
             // txt_ganancia
             // 
+            this.txt_ganancia.Enabled = false;
             this.txt_ganancia.Location = new System.Drawing.Point(155, 95);
             this.txt_ganancia.Name = "txt_ganancia";
             this.txt_ganancia.Size = new System.Drawing.Size(100, 20);
@@ -146,6 +150,7 @@
             // 
             // txt_total_pagado
             // 
+            this.txt_total_pagado.Enabled = false;
             this.txt_total_pagado.Location = new System.Drawing.Point(155, 69);
             this.txt_total_pagado.Name = "txt_total_pagado";
             this.txt_total_pagado.Size = new System.Drawing.Size(100, 20);
@@ -162,6 +167,7 @@
             // 
             // txt_n_meses
             // 
+            this.txt_n_meses.Enabled = false;
             this.txt_n_meses.Location = new System.Drawing.Point(155, 43);
             this.txt_n_meses.Name = "txt_n_meses";
             this.txt_n_meses.Size = new System.Drawing.Size(100, 20);
@@ -178,6 +184,7 @@
             // 
             // txt_cuota_mensual
             // 
+            this.txt_cuota_mensual.Enabled = false;
             this.txt_cuota_mensual.Location = new System.Drawing.Point(155, 18);
             this.txt_cuota_mensual.Name = "txt_cuota_mensual";
             this.txt_cuota_mensual.Size = new System.Drawing.Size(100, 20);
@@ -223,6 +230,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Capital Fijo (Cuota Variable)";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.Click += new System.EventHandler(this.radioButton3_Click);
             // 
             // radioButton2
             // 
@@ -234,7 +242,6 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Interes Fijo (Simple)";
             this.radioButton2.UseVisualStyleBackColor = true;
-//            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             this.radioButton2.Click += new System.EventHandler(this.radioButton2_Click);
             // 
             // radioButton1
@@ -277,6 +284,7 @@
             this.bt_cerrar.TabIndex = 12;
             this.bt_cerrar.Text = "Cerrar";
             this.bt_cerrar.UseVisualStyleBackColor = true;
+            this.bt_cerrar.Click += new System.EventHandler(this.bt_cerrar_Click);
             // 
             // Tamortizacion
             // 
@@ -308,9 +316,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox txt_periodo_anual;
-        private System.Windows.Forms.TextBox txt_tasa_interes;
-        private System.Windows.Forms.TextBox txt_monto_prest;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.TextBox txt_ganancia;
         private System.Windows.Forms.TextBox txt_total_pagado;
@@ -327,5 +332,8 @@
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.Button bt_imprimir;
         private System.Windows.Forms.Button bt_cerrar;
+        public System.Windows.Forms.TextBox txt_periodo_anual;
+        public System.Windows.Forms.TextBox txt_tasa_interes;
+        public System.Windows.Forms.TextBox txt_monto_prest;
     }
 }
