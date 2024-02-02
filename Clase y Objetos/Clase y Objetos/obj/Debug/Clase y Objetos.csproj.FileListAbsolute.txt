@@ -1,0 +1,8 @@
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\bin\Debug\Clase y Objetos.exe.config
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\bin\Debug\Clase y Objetos.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\bin\Debug\Clase y Objetos.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\obj\Debug\Clase y Objetos.csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\obj\Debug\Clase y Objetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\obj\Debug\Clase y Objetos.csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\obj\Debug\Clase y Objetos.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Practica\Clase y Objetos\Clase y Objetos\obj\Debug\Clase y Objetos.pdb
