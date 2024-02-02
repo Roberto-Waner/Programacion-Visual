@@ -1,0 +1,21 @@
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\bin\Debug\Publicaciones Audio-Libro.exe.config
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\bin\Debug\Publicaciones Audio-Libro.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\bin\Debug\Publicaciones Audio-Libro.pdb
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.csproj.AssemblyReference.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.csproj.SuggestedBindingRedirects.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones_Audio_Libro.Form1.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones_Audio_Libro.Properties.Resources.resources
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.csproj.GenerateResource.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.csproj.CoreCompileInputs.cache
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.exe
+C:\Users\FccPM-115\Documents\Roberto Waner\ProyectoC#\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.pdb
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\bin\Debug\Publicaciones Audio-Libro.exe.config
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\bin\Debug\Publicaciones Audio-Libro.exe
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\bin\Debug\Publicaciones Audio-Libro.pdb
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.csproj.AssemblyReference.cache
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones_Audio_Libro.Form1.resources
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones_Audio_Libro.Properties.Resources.resources
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.csproj.GenerateResource.cache
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.csproj.CoreCompileInputs.cache
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.exe
+D:\Proyecto\Programacion Visual\Morillo\Publicaciones Audio-Libro\Publicaciones Audio-Libro\obj\Debug\Publicaciones Audio-Libro.pdb
